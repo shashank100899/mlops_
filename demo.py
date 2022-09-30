@@ -1,9 +1,8 @@
 import pickle
 
-import numpy
+import numpy as np
 import pandas as pd
-from flask import Flask, jsonify, request
-from pyexpat import model
+from flask import Flask
 from sklearn.linear_model import LinearRegression
 
 df = pd.read_csv("winequality-red.csv",sep=";")
