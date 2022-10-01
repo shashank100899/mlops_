@@ -1,13 +1,17 @@
-import pickle
 import os
-import datetime
+import pickle
+from datetime import datetime
+
 import numpy as np
 import pandas as pd
 from flask import Flask
 from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error,mean_absolute_error,r2_score
+from sklearn.preprocessing import StandardScaler
+
+now = datetime.now()
+time_stamp = now.strftime("%d:%m:%Y_%H:%M:%S")
 
 def metrics(predicted,actual):
     mae = mean_absolute_error(actual,predicted)
@@ -43,7 +47,12 @@ if os.path.isdir("metrics"):
 else:
     os.mkdir("metrics")
 
-pickle.dump(model, open("models/model_file" + datetime.now().strftime("%d/%m/%Y %H:%M:%S"), 'wb+'))
 
-with open("metrics/vlues"+ datetime.now().strftime("%d/%m/%Y %H:%M:%S"), 'wb+') as f:
-    f.write(metrics(predicted,y_test))
+model_path = os.path.join("models", "model_file-" + str(time_stamp))
+metric_path = os.path.join("metrics", "value_file-" + str(time_stamp) + ".txt")
+
+with open(model_path, 'wb+') as f: 
+    pickle.dump(model, f)
+
+with open("metrics/vlues.txt" , 'w+') as value_file:
+    value_file.write(metrics(predicted,y_test))
