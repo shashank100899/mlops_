@@ -54,5 +54,5 @@ metric_path = os.path.join("metrics", "value_file-" + str(time_stamp) + ".txt")
 with open(model_path, 'wb+') as f: 
     pickle.dump(model, f)
 
-with open("metrics/vlues.txt" , 'w+') as value_file:
+with open(metric_path , 'w+') as value_file:
     value_file.write(metrics(predicted,y_test))
