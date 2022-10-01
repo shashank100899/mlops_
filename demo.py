@@ -43,7 +43,7 @@ if os.path.isdir("metrics"):
 else:
     os.mkdir("metrics")
 
-pickle.dump(model, open("models/model_file" + datetime.now.strftime("%d/%m/%Y %H:%M:%S"), 'wb+'))
+pickle.dump(model, open("models/model_file" + datetime.now().strftime("%d/%m/%Y %H:%M:%S"), 'wb+'))
 
-with open("metrics/vlues"+ datetime.now.strftime("%d/%m/%Y %H:%M:%S"), 'wb+') as f:
+with open("metrics/vlues"+ datetime.now().strftime("%d/%m/%Y %H:%M:%S"), 'wb+') as f:
     f.write(metrics(predicted,y_test))
