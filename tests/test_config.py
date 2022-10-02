@@ -1,4 +1,3 @@
-import flask_sqlalchemy
 import pandas 
 
 df = pandas.read_csv("winequality-red.csv",sep=";")
