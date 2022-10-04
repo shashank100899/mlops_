@@ -1,0 +1,3 @@
+mean absoluate error = 0.49871976888647834 
+ mean squared error = 0.3878964682031173 
+ r square = 0.4072260275788082
