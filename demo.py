@@ -32,6 +32,9 @@ x_trained = standard_model.transform(x)
 
 x_train,x_test,y_train,y_test = train_test_split(x_trained,y) 
 
+experiment_name = "Mlflow_demo"
+mlflow.set_experiment(experiment_name)
+
 with mlflow.start_run():
     model = LinearRegression()
     model = model.fit(x_train,y_train)
