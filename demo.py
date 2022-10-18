@@ -51,9 +51,3 @@ with mlflow.start_run():
 
     mlflow.sklearn.save_model(model , model_path)
 
-
-
-load_model = mlflow.pyfunc.load_model(model_uri=f"runs/"+os.listdir("runs")[0])
-
-print(load_model)
-
