@@ -45,9 +45,3 @@ with mlflow.start_run():
 
     mlflow.sklearn.log_model(model , "model")
 
-    run_id = mlflow.active_run().info.run_id
-
-    model_path = f"runs/{run_id}/linear_regression"
-
-    mlflow.sklearn.save_model(model , model_path)
-
