@@ -1,4 +1,4 @@
-name: MLops demo
+name: MLops demo with mlflow
 
 on:
   push:

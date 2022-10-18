@@ -9,6 +9,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
+import mlflow
 
 now = datetime.now()
 time_stamp = now.strftime("%d:%m:%Y_%H:%M:%S")
@@ -18,9 +19,7 @@ def metrics(predicted,actual):
     mse = mean_squared_error(actual,predicted)
     r2 = r2_score(actual,predicted)
 
-    s = f"mean absoluate error = {mae} \n mean squared error = {mse} \n r square = {r2}"
-
-    return s
+    return mae , mse , r2
 
 df = pd.read_csv("winequality-red.csv",sep=";")
 
@@ -33,26 +32,28 @@ x_trained = standard_model.transform(x)
 
 x_train,x_test,y_train,y_test = train_test_split(x_trained,y) 
 
-model = LinearRegression()
-model = model.fit(x_train,y_train)
-predicted = model.predict(x_test)
+with mlflow.start_run():
+    model = LinearRegression()
+    model = model.fit(x_train,y_train)
+    predicted = model.predict(x_test)
 
-if os.path.isdir("models"):
-    pass
-else:
-    os.mkdir("models")
+    mae , mse , r2 = metrics(y_test , predicted)
 
-if os.path.isdir("metrics"):
-    pass
-else:
-    os.mkdir("metrics")
+    mlflow.log_metric("mae" , mae)
+    mlflow.log_metric("mse" , mse)
+    mlflow.log_metric("r2"  ,r2)
+
+    mlflow.sklearn.log_model(model , "model")
+
+    run_id = mlflow.active_run().info.run_id
+
+    model_path = f"runs/{run_id}/linear_regression"
+
+    mlflow.sklearn.save_model(model , model_path)
 
 
-models_path = os.path.join("models", "model_file-" + str(time_stamp))
-metrics_path = os.path.join("metrics", "value_file-" + str(time_stamp) + ".txt")
 
-with open(models_path, 'wb+') as f: 
-    pickle.dump(model, f)
+load_model = mlflow.pyfunc.load_model(model_uri=f"runs/"+os.listdir("runs")[0])
 
-with open(metrics_path , 'w+') as value_file:
-    value_file.write(metrics(predicted,y_test))
+print(load_model)
+
