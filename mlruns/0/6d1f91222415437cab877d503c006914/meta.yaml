@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/0/6d1f91222415437cab877d503c006914/artifacts
+end_time: 1666075136098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 6d1f91222415437cab877d503c006914
+run_uuid: 6d1f91222415437cab877d503c006914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666075134373
+status: 3
+tags: []
+user_id: runner
