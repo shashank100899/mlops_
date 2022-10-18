@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shashank1/ci-cd/mlruns/1/6dcf933406204446b816b2e0f482c2a7/artifacts
+end_time: 1666096464944
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6dcf933406204446b816b2e0f482c2a7
+run_uuid: 6dcf933406204446b816b2e0f482c2a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666096462620
+status: 3
+tags: []
+user_id: shashank1
