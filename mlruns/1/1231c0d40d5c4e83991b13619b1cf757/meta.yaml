@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/1231c0d40d5c4e83991b13619b1cf757/artifacts
+end_time: 1666304120514
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1231c0d40d5c4e83991b13619b1cf757
+run_name: sneaky-gnat-876
+run_uuid: 1231c0d40d5c4e83991b13619b1cf757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666304118797
+status: 3
+tags: []
+user_id: runner
