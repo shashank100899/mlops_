@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/be0dc66d387f4ef3a56a926edbd7171e/artifacts
+end_time: 1666340403486
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be0dc66d387f4ef3a56a926edbd7171e
+run_name: youthful-skunk-129
+run_uuid: be0dc66d387f4ef3a56a926edbd7171e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666340401548
+status: 3
+tags: []
+user_id: runner
