@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/87e4dd52ed494291ae2e177cd2c1e8c5/artifacts
+end_time: 1666333832353
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 87e4dd52ed494291ae2e177cd2c1e8c5
+run_name: intelligent-gnu-553
+run_uuid: 87e4dd52ed494291ae2e177cd2c1e8c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666333830397
+status: 3
+tags: []
+user_id: runner
