@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/57b5004b9c4c411482fa3860e6c04bce/artifacts
+end_time: 1666369586571
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 57b5004b9c4c411482fa3860e6c04bce
+run_name: merciful-shad-286
+run_uuid: 57b5004b9c4c411482fa3860e6c04bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666369584406
+status: 3
+tags: []
+user_id: runner
