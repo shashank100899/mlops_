@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/33635f36ec1d442d92f1ea2b9deecde6/artifacts
+end_time: 1666328471662
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 33635f36ec1d442d92f1ea2b9deecde6
+run_name: efficient-frog-959
+run_uuid: 33635f36ec1d442d92f1ea2b9deecde6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666328470104
+status: 3
+tags: []
+user_id: runner
