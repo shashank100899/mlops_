@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/cf919afb1ce348389bc61a494974fa47/artifacts
+end_time: 1666401715549
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cf919afb1ce348389bc61a494974fa47
+run_name: nebulous-crow-29
+run_uuid: cf919afb1ce348389bc61a494974fa47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666401713923
+status: 3
+tags: []
+user_id: runner
