@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/a817c701eacf4c9abae3d75dccab7dc4/artifacts
+end_time: 1666414757276
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a817c701eacf4c9abae3d75dccab7dc4
+run_name: mysterious-sow-155
+run_uuid: a817c701eacf4c9abae3d75dccab7dc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666414755725
+status: 3
+tags: []
+user_id: runner
