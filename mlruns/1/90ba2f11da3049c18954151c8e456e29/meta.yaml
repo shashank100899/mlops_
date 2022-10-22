@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/90ba2f11da3049c18954151c8e456e29/artifacts
+end_time: 1666419804971
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 90ba2f11da3049c18954151c8e456e29
+run_name: marvelous-hound-102
+run_uuid: 90ba2f11da3049c18954151c8e456e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666419803278
+status: 3
+tags: []
+user_id: runner
