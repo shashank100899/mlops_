@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/40cc763f71f04c64a6e6e79342ba59c8/artifacts
+end_time: 1666426773487
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 40cc763f71f04c64a6e6e79342ba59c8
+run_name: skillful-auk-44
+run_uuid: 40cc763f71f04c64a6e6e79342ba59c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666426771570
+status: 3
+tags: []
+user_id: runner
