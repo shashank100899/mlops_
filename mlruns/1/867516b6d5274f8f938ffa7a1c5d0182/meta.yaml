@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/867516b6d5274f8f938ffa7a1c5d0182/artifacts
+end_time: 1666528077871
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 867516b6d5274f8f938ffa7a1c5d0182
+run_name: bold-finch-543
+run_uuid: 867516b6d5274f8f938ffa7a1c5d0182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666528076125
+status: 3
+tags: []
+user_id: runner
