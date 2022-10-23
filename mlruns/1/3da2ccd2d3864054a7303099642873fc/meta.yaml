@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/3da2ccd2d3864054a7303099642873fc/artifacts
+end_time: 1666513115949
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3da2ccd2d3864054a7303099642873fc
+run_name: chill-dog-831
+run_uuid: 3da2ccd2d3864054a7303099642873fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666513113846
+status: 3
+tags: []
+user_id: runner
