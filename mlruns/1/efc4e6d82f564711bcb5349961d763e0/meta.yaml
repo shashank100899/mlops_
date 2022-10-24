@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/efc4e6d82f564711bcb5349961d763e0/artifacts
+end_time: 1666628649722
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: efc4e6d82f564711bcb5349961d763e0
+run_name: abundant-mink-819
+run_uuid: efc4e6d82f564711bcb5349961d763e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666628648214
+status: 3
+tags: []
+user_id: runner
