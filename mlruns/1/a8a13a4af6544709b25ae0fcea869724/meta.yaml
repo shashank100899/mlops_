@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/a8a13a4af6544709b25ae0fcea869724/artifacts
+end_time: 1666636112938
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a8a13a4af6544709b25ae0fcea869724
+run_name: upset-koi-984
+run_uuid: a8a13a4af6544709b25ae0fcea869724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666636111448
+status: 3
+tags: []
+user_id: runner
