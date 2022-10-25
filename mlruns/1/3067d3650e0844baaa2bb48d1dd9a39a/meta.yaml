@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/3067d3650e0844baaa2bb48d1dd9a39a/artifacts
+end_time: 1666661278190
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3067d3650e0844baaa2bb48d1dd9a39a
+run_name: gregarious-hound-593
+run_uuid: 3067d3650e0844baaa2bb48d1dd9a39a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666661276290
+status: 3
+tags: []
+user_id: runner
