@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/be41cc605f0b4de7ba555e3f18fc3d7e/artifacts
+end_time: 1666693152519
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: be41cc605f0b4de7ba555e3f18fc3d7e
+run_name: auspicious-fly-547
+run_uuid: be41cc605f0b4de7ba555e3f18fc3d7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666693150795
+status: 3
+tags: []
+user_id: runner
