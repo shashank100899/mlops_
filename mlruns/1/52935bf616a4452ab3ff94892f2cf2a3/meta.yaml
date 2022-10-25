@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/52935bf616a4452ab3ff94892f2cf2a3/artifacts
+end_time: 1666686393645
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 52935bf616a4452ab3ff94892f2cf2a3
+run_name: skillful-loon-968
+run_uuid: 52935bf616a4452ab3ff94892f2cf2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666686391994
+status: 3
+tags: []
+user_id: runner
