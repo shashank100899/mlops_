@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/d09ea3422a90489ea891e542f55320e9/artifacts
+end_time: 1666815283652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d09ea3422a90489ea891e542f55320e9
+run_name: intrigued-cow-358
+run_uuid: d09ea3422a90489ea891e542f55320e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666815282064
+status: 3
+tags: []
+user_id: runner
