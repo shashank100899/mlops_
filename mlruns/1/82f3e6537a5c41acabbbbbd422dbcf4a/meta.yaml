@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/82f3e6537a5c41acabbbbbd422dbcf4a/artifacts
+end_time: 1666842062945
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 82f3e6537a5c41acabbbbbd422dbcf4a
+run_name: languid-worm-323
+run_uuid: 82f3e6537a5c41acabbbbbd422dbcf4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666842061101
+status: 3
+tags: []
+user_id: runner
