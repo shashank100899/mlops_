@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/fc36b8bc12fd4c55bd05350bbbe3304d/artifacts
+end_time: 1666887554505
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fc36b8bc12fd4c55bd05350bbbe3304d
+run_name: angry-frog-927
+run_uuid: fc36b8bc12fd4c55bd05350bbbe3304d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666887552941
+status: 3
+tags: []
+user_id: runner
