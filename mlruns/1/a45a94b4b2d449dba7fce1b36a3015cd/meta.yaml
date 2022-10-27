@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/a45a94b4b2d449dba7fce1b36a3015cd/artifacts
+end_time: 1666845715195
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a45a94b4b2d449dba7fce1b36a3015cd
+run_name: handsome-hog-108
+run_uuid: a45a94b4b2d449dba7fce1b36a3015cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666845713640
+status: 3
+tags: []
+user_id: runner
