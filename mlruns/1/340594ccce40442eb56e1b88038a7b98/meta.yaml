@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/340594ccce40442eb56e1b88038a7b98/artifacts
+end_time: 1666833140815
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 340594ccce40442eb56e1b88038a7b98
+run_name: welcoming-conch-78
+run_uuid: 340594ccce40442eb56e1b88038a7b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666833139306
+status: 3
+tags: []
+user_id: runner
