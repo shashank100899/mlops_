@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/c56a4ecfce724b489176f751e1721c9f/artifacts
+end_time: 1666937864129
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c56a4ecfce724b489176f751e1721c9f
+run_name: abundant-shad-599
+run_uuid: c56a4ecfce724b489176f751e1721c9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666937862107
+status: 3
+tags: []
+user_id: runner
