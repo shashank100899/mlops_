@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/a9c7f38dcf6641669dac2e973c680109/artifacts
+end_time: 1667038440717
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a9c7f38dcf6641669dac2e973c680109
+run_name: incongruous-colt-623
+run_uuid: a9c7f38dcf6641669dac2e973c680109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667038439227
+status: 3
+tags: []
+user_id: runner
