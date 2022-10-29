@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/215d7ec286cb484d972c5de7384e0c58/artifacts
+end_time: 1667074427115
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 215d7ec286cb484d972c5de7384e0c58
+run_name: sedate-mink-911
+run_uuid: 215d7ec286cb484d972c5de7384e0c58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667074425241
+status: 3
+tags: []
+user_id: runner
