@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/20d9c6393d724dbeb5601e6b56495f3a/artifacts
+end_time: 1667067357096
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 20d9c6393d724dbeb5601e6b56495f3a
+run_name: caring-carp-430
+run_uuid: 20d9c6393d724dbeb5601e6b56495f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667067355134
+status: 3
+tags: []
+user_id: runner
