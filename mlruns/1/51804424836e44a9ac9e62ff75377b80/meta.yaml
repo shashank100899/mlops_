@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/51804424836e44a9ac9e62ff75377b80/artifacts
+end_time: 1667153828781
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51804424836e44a9ac9e62ff75377b80
+run_name: trusting-lynx-83
+run_uuid: 51804424836e44a9ac9e62ff75377b80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667153827118
+status: 3
+tags: []
+user_id: runner
