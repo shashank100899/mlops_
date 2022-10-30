@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/51bfa5a911134bfb81aea877788c2c09/artifacts
+end_time: 1667132730289
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51bfa5a911134bfb81aea877788c2c09
+run_name: powerful-croc-640
+run_uuid: 51bfa5a911134bfb81aea877788c2c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667132728638
+status: 3
+tags: []
+user_id: runner
