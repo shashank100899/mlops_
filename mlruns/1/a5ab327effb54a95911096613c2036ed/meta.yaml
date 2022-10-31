@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/a5ab327effb54a95911096613c2036ed/artifacts
+end_time: 1667247311061
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a5ab327effb54a95911096613c2036ed
+run_name: mysterious-snipe-291
+run_uuid: a5ab327effb54a95911096613c2036ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667247309545
+status: 3
+tags: []
+user_id: runner
