@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/d5749fc8c027444a9816487f6a1f1b03/artifacts
+end_time: 1667204463344
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d5749fc8c027444a9816487f6a1f1b03
+run_name: efficient-swan-559
+run_uuid: d5749fc8c027444a9816487f6a1f1b03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667204461364
+status: 3
+tags: []
+user_id: runner
