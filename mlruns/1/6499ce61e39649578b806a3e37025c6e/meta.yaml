@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/6499ce61e39649578b806a3e37025c6e/artifacts
+end_time: 1667219384041
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6499ce61e39649578b806a3e37025c6e
+run_name: treasured-ray-208
+run_uuid: 6499ce61e39649578b806a3e37025c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667219382521
+status: 3
+tags: []
+user_id: runner
