@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/341c24b8df5d47d1abba0a2d2ffd018f/artifacts
+end_time: 1667211348488
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 341c24b8df5d47d1abba0a2d2ffd018f
+run_name: puzzled-koi-48
+run_uuid: 341c24b8df5d47d1abba0a2d2ffd018f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667211346889
+status: 3
+tags: []
+user_id: runner
