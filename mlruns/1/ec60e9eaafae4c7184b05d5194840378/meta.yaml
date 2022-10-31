@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/ec60e9eaafae4c7184b05d5194840378/artifacts
+end_time: 1667240383118
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ec60e9eaafae4c7184b05d5194840378
+run_name: aged-croc-40
+run_uuid: ec60e9eaafae4c7184b05d5194840378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667240381602
+status: 3
+tags: []
+user_id: runner
