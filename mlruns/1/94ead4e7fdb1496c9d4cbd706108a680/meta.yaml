@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/94ead4e7fdb1496c9d4cbd706108a680/artifacts
+end_time: 1667254504217
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 94ead4e7fdb1496c9d4cbd706108a680
+run_name: peaceful-wren-122
+run_uuid: 94ead4e7fdb1496c9d4cbd706108a680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667254502017
+status: 3
+tags: []
+user_id: runner
