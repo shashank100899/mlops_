@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/d7486d6cb27d4291b7c460db10c6eb1e/artifacts
+end_time: 1667283792787
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d7486d6cb27d4291b7c460db10c6eb1e
+run_name: righteous-toad-780
+run_uuid: d7486d6cb27d4291b7c460db10c6eb1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667283791131
+status: 3
+tags: []
+user_id: runner
