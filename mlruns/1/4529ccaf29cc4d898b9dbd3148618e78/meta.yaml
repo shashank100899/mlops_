@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/4529ccaf29cc4d898b9dbd3148618e78/artifacts
+end_time: 1667290706295
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4529ccaf29cc4d898b9dbd3148618e78
+run_name: salty-dog-774
+run_uuid: 4529ccaf29cc4d898b9dbd3148618e78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667290704237
+status: 3
+tags: []
+user_id: runner
