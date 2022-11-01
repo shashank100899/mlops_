@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/9fcc9d046f0d4d68abf9e3a65d1d555d/artifacts
+end_time: 1667333729015
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9fcc9d046f0d4d68abf9e3a65d1d555d
+run_name: adventurous-bee-260
+run_uuid: 9fcc9d046f0d4d68abf9e3a65d1d555d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667333727087
+status: 3
+tags: []
+user_id: runner
