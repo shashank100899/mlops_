@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/55a784ce30ba4362bdde3dcd2fccc28d/artifacts
+end_time: 1667384118831
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55a784ce30ba4362bdde3dcd2fccc28d
+run_name: enthused-pug-61
+run_uuid: 55a784ce30ba4362bdde3dcd2fccc28d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667384117246
+status: 3
+tags: []
+user_id: runner
