@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/d8b55dd4c04040a489e937f8d3e8dcb2/artifacts
+end_time: 1667351833887
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d8b55dd4c04040a489e937f8d3e8dcb2
+run_name: upbeat-hen-415
+run_uuid: d8b55dd4c04040a489e937f8d3e8dcb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667351832014
+status: 3
+tags: []
+user_id: runner
