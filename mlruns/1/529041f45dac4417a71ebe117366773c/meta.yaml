@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/529041f45dac4417a71ebe117366773c/artifacts
+end_time: 1667420005727
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 529041f45dac4417a71ebe117366773c
+run_name: adaptable-cat-551
+run_uuid: 529041f45dac4417a71ebe117366773c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667420004083
+status: 3
+tags: []
+user_id: runner
