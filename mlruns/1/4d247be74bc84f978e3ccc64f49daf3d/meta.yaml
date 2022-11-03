@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/4d247be74bc84f978e3ccc64f49daf3d/artifacts
+end_time: 1667470438939
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4d247be74bc84f978e3ccc64f49daf3d
+run_name: serious-ape-409
+run_uuid: 4d247be74bc84f978e3ccc64f49daf3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667470437288
+status: 3
+tags: []
+user_id: runner
