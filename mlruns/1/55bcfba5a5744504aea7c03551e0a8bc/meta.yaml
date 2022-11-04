@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/55bcfba5a5744504aea7c03551e0a8bc/artifacts
+end_time: 1667549900537
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 55bcfba5a5744504aea7c03551e0a8bc
+run_name: loud-stag-38
+run_uuid: 55bcfba5a5744504aea7c03551e0a8bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667549898908
+status: 3
+tags: []
+user_id: runner
