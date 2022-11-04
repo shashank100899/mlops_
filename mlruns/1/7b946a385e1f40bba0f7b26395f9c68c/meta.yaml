@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/7b946a385e1f40bba0f7b26395f9c68c/artifacts
+end_time: 1667571072898
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7b946a385e1f40bba0f7b26395f9c68c
+run_name: auspicious-shad-517
+run_uuid: 7b946a385e1f40bba0f7b26395f9c68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667571071292
+status: 3
+tags: []
+user_id: runner
