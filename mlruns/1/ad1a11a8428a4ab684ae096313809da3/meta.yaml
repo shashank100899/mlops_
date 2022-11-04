@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1/ad1a11a8428a4ab684ae096313809da3/artifacts
+end_time: 1667536698611
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: ad1a11a8428a4ab684ae096313809da3
+run_name: hilarious-mink-700
+run_uuid: ad1a11a8428a4ab684ae096313809da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667536696551
+status: 3
+tags: []
+user_id: runner
