@@ -5,3 +5,9 @@ flask
 pytest
 mlflow
 dill
+azureml-sdk
+azureml-defaults
+inference-schema[numpy-support]
+lightgbm
+LightGBM
+joblib
