@@ -1,5 +1,5 @@
 import os
-import dill
+import pickle
 from datetime import datetime
 import numpy as np
 import pandas as pd
@@ -36,7 +36,7 @@ predicted = model.predict(x_test)
 mae , mse , r2 = metrics(y_test , predicted)
 
 with open(os.path.join(model_path , "model.plk"),"wb") as file_object:
-    dill.dump(model,file_object)
+    pickle.dump(model,file_object)
 
 
 

@@ -5,6 +5,7 @@ flask
 pytest
 mlflow
 dill
+pickle
 azureml-sdk
 azureml-defaults
 inference-schema[numpy-support]
