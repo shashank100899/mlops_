@@ -8,7 +8,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-model_path = os.path.join("./output_folder" , "model.plk")
+model_path = os.path.join("output_folder" , "model.plk")
 
 
 def metrics(predicted,actual):
@@ -34,6 +34,8 @@ model = model.fit(x_train,y_train)
 predicted = model.predict(x_test)
 
 mae , mse , r2 = metrics(y_test , predicted)
+
+os.makedirs(os.path.dirname(model_path))
 
 with open(model_path,"wb") as file_object:
     pickle.dump(model,file_object)
