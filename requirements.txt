@@ -11,4 +11,4 @@ inference-schema[numpy-support]
 lightgbm
 LightGBM
 joblib
-persistent
+msal-extensions
