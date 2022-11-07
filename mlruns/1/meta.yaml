@@ -1,6 +1,0 @@
-artifact_location: file:///home/runner/work/mlops_demo/mlops_demo/mlruns/1
-creation_time: 1666098652737
-experiment_id: '1'
-last_update_time: 1666098652737
-lifecycle_stage: active
-name: Mlflow_demo

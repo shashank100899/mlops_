@@ -1,7 +1,7 @@
 import os
 import dill
 from datetime import datetime
-
+from msal_extensions.persistence import PersistenceError
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
