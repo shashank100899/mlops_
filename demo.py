@@ -35,10 +35,13 @@ predicted = model.predict(x_test)
 
 mae , mse , r2 = metrics(y_test , predicted)
 
-os.makedirs(os.path.dirname(model_path))
 
-with open(model_path,"wb") as file_object:
-    pickle.dump(model,file_object)
+print("--"*100)
+print(os.listdir)
+print("--"*100)
+
+#with open(model_path,"wb") as file_object:
+#    pickle.dump(model,file_object)
 
 
 
