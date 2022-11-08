@@ -1,5 +1,5 @@
 import os
-import pickle
+import joblib
 from datetime import datetime
 import numpy as np
 import pandas as pd
@@ -8,7 +8,6 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-model_path = os.path.join("output_folder" , "model.plk")
 
 
 def metrics(predicted,actual):
@@ -35,13 +34,11 @@ predicted = model.predict(x_test)
 
 mae , mse , r2 = metrics(y_test , predicted)
 
+model_name = "demo_model"
 
-print("--"*100)
-print(os.listdir)
-print("--"*100)
-
-#with open(model_path,"wb") as file_object:
-#    pickle.dump(model,file_object)
+os.makedirs('outputs', exist_ok=True)
+output_path = os.path.join('outputs', model_name)
+joblib.dump(value=model, filename=output_path)
 
 
 
