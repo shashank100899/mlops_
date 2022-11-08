@@ -34,7 +34,7 @@ predicted = model.predict(x_test)
 
 mae , mse , r2 = metrics(y_test , predicted)
 
-model_name = "demo_model"
+model_name = "demo_model.pkl"
 
 os.makedirs('outputs', exist_ok=True)
 output_path = os.path.join('outputs', model_name)
