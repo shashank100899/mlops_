@@ -6,3 +6,4 @@ pip install pytest
 pip install pytest-cov
 pip install joblib
 pip install -r requirements.txt
+
