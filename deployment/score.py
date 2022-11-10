@@ -3,7 +3,9 @@ import os
 import json
 import numpy as np
 
-model = joblib.load(os.path.join("outputs","demo_model.plk"))
+model_path = os.path.join("outputs","demo_model.pkl")
+
+model = joblib.load(open(model_path,"rb"))
 
 
 def run(raw_data, request_headers):
